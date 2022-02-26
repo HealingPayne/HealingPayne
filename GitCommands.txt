@@ -1,0 +1,27 @@
+git --version
+git or git help
+
+=====================================
+Git Config
+=====================================
+git config --local user.email  
+git config --local user.name  
+git config --global user.email  
+git config --global user.name 
+
+// Change User name
+git config --global user.name "Mickey Mouse"
+
+git config --global --list
+
+==========================================
+Initialize Git to Folder
+    Init creates a first branch called Master
+==========================================
+git init
+git init my-project //in new Folder my-project
+
+=====================================
+Folder Management
+=====================================
+ls  //List folder contents
