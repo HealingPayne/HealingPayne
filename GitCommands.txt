@@ -25,3 +25,16 @@ git init my-project //in new Folder my-project
 Folder Management
 =====================================
 ls  //List folder contents
+
+=====================================
+Commit
+=====================================
+git add .
+git commit -m "Change Message"
+git log --oneline
+
+=====================================
+Reset to Branch
+=====================================
+git reset --hard 054270e
+git log --oneline
