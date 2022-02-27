@@ -47,3 +47,8 @@ git commit -m "First Commit"
 git branch -M main
 git remote add origin https://github.com/HealingPayne/HealingPayne.git
 git push -u origin main
+
+=====================================
+Push First Time to GitHub
+=====================================
+git clone https://github.com/HealingPayne/HealingPayne-GitCommands.git
