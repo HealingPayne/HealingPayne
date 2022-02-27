@@ -49,6 +49,6 @@ git remote add origin https://github.com/HealingPayne/HealingPayne.git
 git push -u origin main
 
 =====================================
-Push First Time to GitHub
+Clone Project from GitHub
 =====================================
 git clone https://github.com/HealingPayne/HealingPayne-GitCommands.git
